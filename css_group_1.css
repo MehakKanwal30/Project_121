@@ -11,7 +11,6 @@ body {
 	background-color: white;
 	padding: 30px;
 	margin: 90px;
-	/*width: 490px;*/
 	height: 563px;
 }
 
@@ -81,4 +80,8 @@ input {
 	margin: 4px;
 	border-radius: 50px;
 	width: 110px;
+}
+
+.line {
+	text-decoration: none;
 }
